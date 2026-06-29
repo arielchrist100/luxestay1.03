@@ -288,3 +288,4 @@ Développé avec ❤️ et Claude Code
 
 **Pour commencer** : Suivre `SANCTUM_ONLY_SETUP.md` 🚀
 # luxestay1.03
+# luxestay1.04
